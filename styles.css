@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    max-width: 250px;
+    max-height: 100px;
+  }
+  
+/* Container for the chart */
+.chart-container {
+    max-width: 500px; /* Adjust as needed */
+    margin: 0 auto; /* Center the chart */
+    padding: 20px; /* Add some spacing */
+    flex: 2;
+  }
+  
+  /* Make the canvas responsive */
+  canvas {
+    max-width: 100%;
+    height: auto !important;
+  }
+  
+  /* Optional: Add some basic styling for the dropdowns */
+  label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  

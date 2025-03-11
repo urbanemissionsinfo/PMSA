@@ -1,0 +1,759 @@
+dtcode23,dtcode11,stdtname,dtname,dtusename,stcode11,stcode23,st2code,stname
+1,14,jk_anantnag,Anantnag,anantnag,1,1,JK,JAMMU & KASHMIR
+2,2,jk_badgam,Badgam,badgam,1,1,JK,JAMMU & KASHMIR
+3,9,jk_bandipore,Bandipore,bandipore,1,1,JK,JAMMU & KASHMIR
+4,8,jk_baramula,Baramula,baramula,1,1,JK,JAMMU & KASHMIR
+5,16,jk_doda,Doda,doda,1,1,JK,JAMMU & KASHMIR
+6,11,jk_ganderbal,Ganderbal,ganderbal,1,1,JK,JAMMU & KASHMIR
+7,21,jk_jammu,Jammu,jammu,1,1,JK,JAMMU & KASHMIR
+8,7,jk_kathua,Kathua,kathua,1,1,JK,JAMMU & KASHMIR
+9,18,jk_kishtwar,Kishtwar,kishtwar,1,1,JK,JAMMU & KASHMIR
+10,15,jk_kulgam,Kulgam,kulgam,1,1,JK,JAMMU & KASHMIR
+11,1,jk_kupwara,Kupwara,kupwara,1,1,JK,JAMMU & KASHMIR
+12,991,jk_mirpur,Mirpur,mirpur,1,1,JK,JAMMU & KASHMIR
+13,992,jk_muzaffarabad,Muzaffarabad,muzaffarabad,1,1,JK,JAMMU & KASHMIR
+14,12,jk_pulwama,Pulwama,pulwama,1,1,JK,JAMMU & KASHMIR
+15,5,jk_punch,Punch,punch,1,1,JK,JAMMU & KASHMIR
+16,6,jk_rajouri,Rajouri,rajouri,1,1,JK,JAMMU & KASHMIR
+17,17,jk_ramban,Ramban,ramban,1,1,JK,JAMMU & KASHMIR
+18,20,jk_reasi,Reasi,reasi,1,1,JK,JAMMU & KASHMIR
+19,22,jk_samba,Samba,samba,1,1,JK,JAMMU & KASHMIR
+20,13,jk_shupiyan,Shupiyan,shupiyan,1,1,JK,JAMMU & KASHMIR
+21,10,jk_srinagar,Srinagar,srinagar,1,1,JK,JAMMU & KASHMIR
+22,19,jk_udhampur,Udhampur,udhampur,1,1,JK,JAMMU & KASHMIR
+23,30,hp_bilaspur,Bilaspur,bilaspur,2,2,HP,HIMACHAL PRADESH
+24,23,hp_chamba,Chamba,chamba,2,2,HP,HIMACHAL PRADESH
+25,28,hp_hamirpur,Hamirpur,hamirpur,2,2,HP,HIMACHAL PRADESH
+26,24,hp_kangra,Kangra,kangra,2,2,HP,HIMACHAL PRADESH
+27,34,hp_kinnaur,Kinnaur,kinnaur,2,2,HP,HIMACHAL PRADESH
+28,26,hp_kullu,Kullu,kullu,2,2,HP,HIMACHAL PRADESH
+29,25,hp_lahul_&_spiti,Lahul & Spiti,lahul_&_spiti,2,2,HP,HIMACHAL PRADESH
+30,27,hp_mandi,Mandi,mandi,2,2,HP,HIMACHAL PRADESH
+31,33,hp_shimla,Shimla,shimla,2,2,HP,HIMACHAL PRADESH
+32,32,hp_sirmaur,Sirmaur,sirmaur,2,2,HP,HIMACHAL PRADESH
+33,31,hp_solan,Solan,solan,2,2,HP,HIMACHAL PRADESH
+34,29,hp_una,Una,una,2,2,HP,HIMACHAL PRADESH
+35,49,pb_amritsar,Amritsar,amritsar,3,3,PB,PUNJAB
+36,54,pb_barnala,Barnala,barnala,3,3,PB,PUNJAB
+37,46,pb_bathinda,Bathinda,bathinda,3,3,PB,PUNJAB
+38,45,pb_faridkot,Faridkot,faridkot,3,3,PB,PUNJAB
+39,40,pb_fatehgarh_sahib,Fatehgarh Sahib,fatehgarh_sahib,3,3,PB,PUNJAB
+40,701,pb_fazilka,Fazilka,fazilka,3,3,PB,PUNJAB
+41,43,pb_firozpur,Firozpur,firozpur,3,3,PB,PUNJAB
+42,35,pb_gurdaspur,Gurdaspur,gurdaspur,3,3,PB,PUNJAB
+43,38,pb_hoshiarpur,Hoshiarpur,hoshiarpur,3,3,PB,PUNJAB
+44,37,pb_jalandhar,Jalandhar,jalandhar,3,3,PB,PUNJAB
+45,36,pb_kapurthala,Kapurthala,kapurthala,3,3,PB,PUNJAB
+46,41,pb_ludhiana,Ludhiana,ludhiana,3,3,PB,PUNJAB
+47,797,pb_malerkotla,Malerkotla,malerkotla,3,3,PB,PUNJAB
+48,47,pb_mansa,Mansa,mansa,3,3,PB,PUNJAB
+49,42,pb_moga,Moga,moga,3,3,PB,PUNJAB
+50,773,pb_pathankot,Pathankot,pathankot,3,3,PB,PUNJAB
+51,48,pb_patiala,Patiala,patiala,3,3,PB,PUNJAB
+52,51,pb_rupnagar,Rupnagar,rupnagar,3,3,PB,PUNJAB
+53,52,pb_sahibzada_ajit_singh_nag*,Sahibzada Ajit Singh Nag*,sahibzada_ajit_singh_nag*,3,3,PB,PUNJAB
+54,53,pb_sangrur,Sangrur,sangrur,3,3,PB,PUNJAB
+55,39,pb_shahid_bhagat_singh_nagar,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar,3,3,PB,PUNJAB
+56,44,pb_sri_muktsar_sahib,Sri Muktsar Sahib,sri_muktsar_sahib,3,3,PB,PUNJAB
+57,50,pb_tarn_taran,Tarn Taran,tarn_taran,3,3,PB,PUNJAB
+58,55,ch_chandigarh,Chandigarh,chandigarh,4,4,CH,CHANDIGARH
+59,64,"uk_almora
+","Almora
+","almora
+",5,5,UK,UTTARAKHAND
+60,63,uk_bageshwar,Bageshwar,bageshwar,5,5,UK,UTTARAKHAND
+61,57,uk_chamoli,Chamoli,chamoli,5,5,UK,UTTARAKHAND
+62,65,uk_champawat,Champawat,champawat,5,5,UK,UTTARAKHAND
+63,60,uk_dehradun,Dehradun,dehradun,5,5,UK,UTTARAKHAND
+64,61,uk_garhwal,Garhwal,garhwal,5,5,UK,UTTARAKHAND
+65,68,uk_hardwar,Hardwar,hardwar,5,5,UK,UTTARAKHAND
+66,66,uk_nainital,Nainital,nainital,5,5,UK,UTTARAKHAND
+67,62,uk_pithoragarh,Pithoragarh,pithoragarh,5,5,UK,UTTARAKHAND
+68,58,uk_rudraprayag,Rudraprayag,rudraprayag,5,5,UK,UTTARAKHAND
+69,59,uk_tehri_garhwal,Tehri Garhwal,tehri_garhwal,5,5,UK,UTTARAKHAND
+70,67,uk_udham_singh_nagar,Udham Singh Nagar,udham_singh_nagar,5,5,UK,UTTARAKHAND
+71,56,uk_uttarkashi,Uttarkashi,uttarkashi,5,5,UK,UTTARAKHAND
+72,70,hr_ambala,Ambala,ambala,6,6,HR,HARYANA
+73,81,hr_bhiwani,Bhiwani,bhiwani,6,6,HR,HARYANA
+74,765,hr_charki_dadri,Charki Dadri,charki_dadri,6,6,HR,HARYANA
+75,88,hr_faridabad,Faridabad,faridabad,6,6,HR,HARYANA
+76,78,hr_fatehabad,Fatehabad,fatehabad,6,6,HR,HARYANA
+77,86,hr_gurugram,Gurugram,gurugram,6,6,HR,HARYANA
+78,80,hr_hisar,Hisar,hisar,6,6,HR,HARYANA
+79,83,hr_jhajjar,Jhajjar,jhajjar,6,6,HR,HARYANA
+80,77,hr_jind,Jind,jind,6,6,HR,HARYANA
+81,73,hr_kaithal,Kaithal,kaithal,6,6,HR,HARYANA
+82,74,hr_karnal,Karnal,karnal,6,6,HR,HARYANA
+83,72,hr_kurukshetra,Kurukshetra,kurukshetra,6,6,HR,HARYANA
+84,84,hr_mahendragarh,Mahendragarh,mahendragarh,6,6,HR,HARYANA
+85,87,hr_nuh,Nuh,nuh,6,6,HR,HARYANA
+86,89,hr_palwal,Palwal,palwal,6,6,HR,HARYANA
+87,69,hr_panchkula,Panchkula,panchkula,6,6,HR,HARYANA
+88,75,hr_panipat,Panipat,panipat,6,6,HR,HARYANA
+89,85,hr_rewari,Rewari,rewari,6,6,HR,HARYANA
+90,82,hr_rohtak,Rohtak,rohtak,6,6,HR,HARYANA
+91,79,hr_sirsa,Sirsa,sirsa,6,6,HR,HARYANA
+92,76,hr_sonipat,Sonipat,sonipat,6,6,HR,HARYANA
+93,71,hr_yamunanagar,Yamunanagar,yamunanagar,6,6,HR,HARYANA
+94,95,dl_central,Central,central,7,7,DL,DELHI
+95,93,dl_east,East,east,7,7,DL,DELHI
+96,94,dl_new_delhi,New Delhi,new_delhi,7,7,DL,DELHI
+97,91,dl_north,North,north,7,7,DL,DELHI
+98,92,dl_north_east,North East,north_east,7,7,DL,DELHI
+99,90,dl_north_west,North West,north_west,7,7,DL,DELHI
+100,702,dl_shahdara,Shahdara,shahdara,7,7,DL,DELHI
+101,98,dl_south,South,south,7,7,DL,DELHI
+102,703,dl_south_east,South East,south_east,7,7,DL,DELHI
+103,97,dl_south_west,South West,south_west,7,7,DL,DELHI
+104,96,dl_west,West,west,7,7,DL,DELHI
+105,119,rj_ajmer,Ajmer,ajmer,8,8,RJ,RAJASTHAN
+106,104,rj_alwar,Alwar,alwar,8,8,RJ,RAJASTHAN
+107,125,rj_banswara,Banswara,banswara,8,8,RJ,RAJASTHAN
+108,128,rj_baran,Baran,baran,8,8,RJ,RAJASTHAN
+109,115,rj_barmer,Barmer,barmer,8,8,RJ,RAJASTHAN
+110,105,rj_bharatpur,Bharatpur,bharatpur,8,8,RJ,RAJASTHAN
+111,122,rj_bhilwara,Bhilwara,bhilwara,8,8,RJ,RAJASTHAN
+112,101,rj_bikaner,Bikaner,bikaner,8,8,RJ,RAJASTHAN
+113,121,rj_bundi,Bundi,bundi,8,8,RJ,RAJASTHAN
+114,126,rj_chittaurgarh,Chittaurgarh,chittaurgarh,8,8,RJ,RAJASTHAN
+115,102,rj_churu,Churu,churu,8,8,RJ,RAJASTHAN
+116,109,rj_dausa,Dausa,dausa,8,8,RJ,RAJASTHAN
+117,106,rj_dhaulpur,Dhaulpur,dhaulpur,8,8,RJ,RAJASTHAN
+118,124,rj_dungarpur,Dungarpur,dungarpur,8,8,RJ,RAJASTHAN
+119,99,rj_ganganagar,Ganganagar,ganganagar,8,8,RJ,RAJASTHAN
+120,100,rj_hanumangarh,Hanumangarh,hanumangarh,8,8,RJ,RAJASTHAN
+121,110,rj_jaipur,Jaipur,jaipur,8,8,RJ,RAJASTHAN
+122,114,rj_jaisalmer,Jaisalmer,jaisalmer,8,8,RJ,RAJASTHAN
+123,116,rj_jalor,Jalor,jalor,8,8,RJ,RAJASTHAN
+124,129,rj_jhalawar,Jhalawar,jhalawar,8,8,RJ,RAJASTHAN
+125,103,rj_jhunjhunun,Jhunjhunun,jhunjhunun,8,8,RJ,RAJASTHAN
+126,113,rj_jodhpur,Jodhpur,jodhpur,8,8,RJ,RAJASTHAN
+127,107,rj_karauli,Karauli,karauli,8,8,RJ,RAJASTHAN
+128,127,rj_kota,Kota,kota,8,8,RJ,RAJASTHAN
+129,112,rj_nagaur,Nagaur,nagaur,8,8,RJ,RAJASTHAN
+130,118,rj_pali,Pali,pali,8,8,RJ,RAJASTHAN
+132,123,rj_rajsamand,Rajsamand,rajsamand,8,8,RJ,RAJASTHAN
+133,108,rj_sawai_madhopur,Sawai Madhopur,sawai_madhopur,8,8,RJ,RAJASTHAN
+134,111,rj_sikar,Sikar,sikar,8,8,RJ,RAJASTHAN
+135,117,rj_sirohi,Sirohi,sirohi,8,8,RJ,RAJASTHAN
+136,120,rj_tonk,Tonk,tonk,8,8,RJ,RAJASTHAN
+137,130,rj_udaipur,Udaipur,udaipur,8,8,RJ,RAJASTHAN
+197,131,rj_pratapgarh,Pratapgarh,pratapgarh,8,8,RJ,RAJASTHAN
+138,146,up_agra,Agra,agra,9,9,UP,UTTAR PRADESH
+139,143,up_aligarh,Aligarh,aligarh,9,9,UP,UTTAR PRADESH
+140,178,up_ambedkar_nagar,Ambedkar Nagar,ambedkar_nagar,9,9,UP,UTTAR PRADESH
+141,706,up_amethi,Amethi,amethi,9,9,UP,UTTAR PRADESH
+142,137,up_amroha,Amroha,amroha,9,9,UP,UTTAR PRADESH
+143,162,up_auraiya,Auraiya,auraiya,9,9,UP,UTTAR PRADESH
+144,191,up_azamgarh,Azamgarh,azamgarh,9,9,UP,UTTAR PRADESH
+145,139,up_baghpat,Baghpat,baghpat,9,9,UP,UTTAR PRADESH
+146,180,up_bahraich,Bahraich,bahraich,9,9,UP,UTTAR PRADESH
+147,193,up_ballia,Ballia,ballia,9,9,UP,UTTAR PRADESH
+149,170,up_banda,Banda,banda,9,9,UP,UTTAR PRADESH
+150,176,up_bara_banki,Bara Banki,bara_banki,9,9,UP,UTTAR PRADESH
+151,150,up_bareilly,Bareilly,bareilly,9,9,UP,UTTAR PRADESH
+152,185,up_basti,Basti,basti,9,9,UP,UTTAR PRADESH
+153,198,up_bhadohi,Bhadohi,bhadohi,9,9,UP,UTTAR PRADESH
+154,134,up_bijnor,Bijnor,bijnor,9,9,UP,UTTAR PRADESH
+155,149,up_budaun,Budaun,budaun,9,9,UP,UTTAR PRADESH
+156,142,up_bulandshahr,Bulandshahr,bulandshahr,9,9,UP,UTTAR PRADESH
+157,196,up_chandauli,Chandauli,chandauli,9,9,UP,UTTAR PRADESH
+158,171,up_chitrakoot,Chitrakoot,chitrakoot,9,9,UP,UTTAR PRADESH
+159,190,up_deoria,Deoria,deoria,9,9,UP,UTTAR PRADESH
+160,201,up_etah,Etah,etah,9,9,UP,UTTAR PRADESH
+161,161,up_etawah,Etawah,etawah,9,9,UP,UTTAR PRADESH
+162,177,up_faizabad,Faizabad,faizabad,9,9,UP,UTTAR PRADESH
+163,159,up_farrukhabad,Farrukhabad,farrukhabad,9,9,UP,UTTAR PRADESH
+164,172,up_fatehpur,Fatehpur,fatehpur,9,9,UP,UTTAR PRADESH
+165,147,up_firozabad,Firozabad,firozabad,9,9,UP,UTTAR PRADESH
+166,141,up_gautam_buddha_nagar,Gautam Buddha Nagar,gautam_buddha_nagar,9,9,UP,UTTAR PRADESH
+167,140,up_ghaziabad,Ghaziabad,ghaziabad,9,9,UP,UTTAR PRADESH
+168,195,up_ghazipur,Ghazipur,ghazipur,9,9,UP,UTTAR PRADESH
+169,183,up_gonda,Gonda,gonda,9,9,UP,UTTAR PRADESH
+170,188,up_gorakhpur,Gorakhpur,gorakhpur,9,9,UP,UTTAR PRADESH
+171,168,up_hamirpur,Hamirpur,hamirpur,9,9,UP,UTTAR PRADESH
+172,705,up_hapur,Hapur,hapur,9,9,UP,UTTAR PRADESH
+173,155,up_hardoi,Hardoi,hardoi,9,9,UP,UTTAR PRADESH
+174,144,up_hathras,Hathras,hathras,9,9,UP,UTTAR PRADESH
+175,165,up_jalaun,Jalaun,jalaun,9,9,UP,UTTAR PRADESH
+176,194,up_jaunpur,Jaunpur,jaunpur,9,9,UP,UTTAR PRADESH
+177,166,up_jhansi,Jhansi,jhansi,9,9,UP,UTTAR PRADESH
+178,160,up_kannauj,Kannauj,kannauj,9,9,UP,UTTAR PRADESH
+179,163,up_kanpur_dehat,Kanpur Dehat,kanpur_dehat,9,9,UP,UTTAR PRADESH
+180,164,up_kanpur_nagar,Kanpur Nagar,kanpur_nagar,9,9,UP,UTTAR PRADESH
+181,202,up_kasganj,Kasganj,kasganj,9,9,UP,UTTAR PRADESH
+182,174,up_kaushambi,Kaushambi,kaushambi,9,9,UP,UTTAR PRADESH
+183,153,up_kheri,Kheri,kheri,9,9,UP,UTTAR PRADESH
+184,189,up_kushinagar,Kushinagar,kushinagar,9,9,UP,UTTAR PRADESH
+185,167,up_lalitpur,Lalitpur,lalitpur,9,9,UP,UTTAR PRADESH
+186,157,up_lucknow,Lucknow,lucknow,9,9,UP,UTTAR PRADESH
+187,169,up_mahoba,Mahoba,mahoba,9,9,UP,UTTAR PRADESH
+188,187,up_mahrajganj,Mahrajganj,mahrajganj,9,9,UP,UTTAR PRADESH
+189,148,up_mainpuri,Mainpuri,mainpuri,9,9,UP,UTTAR PRADESH
+190,145,up_mathura,Mathura,mathura,9,9,UP,UTTAR PRADESH
+191,192,up_mau,Mau,mau,9,9,UP,UTTAR PRADESH
+192,138,up_meerut,Meerut,meerut,9,9,UP,UTTAR PRADESH
+193,199,up_mirzapur,Mirzapur,mirzapur,9,9,UP,UTTAR PRADESH
+194,135,up_moradabad,Moradabad,moradabad,9,9,UP,UTTAR PRADESH
+195,133,up_muzaffarnagar,Muzaffarnagar,muzaffarnagar,9,9,UP,UTTAR PRADESH
+196,151,up_pilibhit,Pilibhit,pilibhit,9,9,UP,UTTAR PRADESH
+197,173,up_pratapgarh,Pratapgarh,pratapgarh,9,9,UP,UTTAR PRADESH
+198,175,up_prayagraj,Prayagraj,prayagraj,9,9,UP,UTTAR PRADESH
+199,158,up_rae_bareli,Rae Bareli,rae_bareli,9,9,UP,UTTAR PRADESH
+200,136,up_rampur,Rampur,rampur,9,9,UP,UTTAR PRADESH
+201,132,up_saharanpur,Saharanpur,saharanpur,9,9,UP,UTTAR PRADESH
+202,754,up_sambhal,Sambhal,sambhal,9,9,UP,UTTAR PRADESH
+203,186,up_sant_kabir_nagar,Sant Kabir Nagar,sant_kabir_nagar,9,9,UP,UTTAR PRADESH
+204,152,up_shahjahanpur,Shahjahanpur,shahjahanpur,9,9,UP,UTTAR PRADESH
+205,704,up_shamli,Shamli,shamli,9,9,UP,UTTAR PRADESH
+206,181,up_shrawasti,Shrawasti,shrawasti,9,9,UP,UTTAR PRADESH
+207,184,up_siddharthnagar,Siddharthnagar,siddharthnagar,9,9,UP,UTTAR PRADESH
+208,154,up_sitapur,Sitapur,sitapur,9,9,UP,UTTAR PRADESH
+209,200,up_sonbhadra,Sonbhadra,sonbhadra,9,9,UP,UTTAR PRADESH
+210,179,up_sultanpur,Sultanpur,sultanpur,9,9,UP,UTTAR PRADESH
+211,156,up_unnao,Unnao,unnao,9,9,UP,UTTAR PRADESH
+212,197,up_varanasi,Varanasi,varanasi,9,9,UP,UTTAR PRADESH
+452,182,up_balrampur,Balrampur,balrampur,9,9,UP,UTTAR PRADESH
+213,209,bh_araria,Araria,araria,10,10,BH,BIHAR
+214,240,bh_arwal,Arwal,arwal,10,10,BH,BIHAR
+216,225,bh_banka,Banka,banka,10,10,BH,BIHAR
+217,222,bh_begusarai,Begusarai,begusarai,10,10,BH,BIHAR
+218,224,bh_bhagalpur,Bhagalpur,bhagalpur,10,10,BH,BIHAR
+219,231,bh_bhojpur,Bhojpur,bhojpur,10,10,BH,BIHAR
+220,232,bh_buxar,Buxar,buxar,10,10,BH,BIHAR
+221,215,bh_darbhanga,Darbhanga,darbhanga,10,10,BH,BIHAR
+222,236,bh_gaya,Gaya,gaya,10,10,BH,BIHAR
+223,217,bh_gopalganj,Gopalganj,gopalganj,10,10,BH,BIHAR
+224,238,bh_jamui,Jamui,jamui,10,10,BH,BIHAR
+225,239,bh_jehanabad,Jehanabad,jehanabad,10,10,BH,BIHAR
+226,233,bh_kaimur_(bhabua),Kaimur (bhabua),kaimur_(bhabua),10,10,BH,BIHAR
+227,212,bh_katihar,Katihar,katihar,10,10,BH,BIHAR
+228,223,bh_khagaria,Khagaria,khagaria,10,10,BH,BIHAR
+229,210,bh_kishanganj,Kishanganj,kishanganj,10,10,BH,BIHAR
+230,227,bh_lakhisarai,Lakhisarai,lakhisarai,10,10,BH,BIHAR
+231,213,bh_madhepura,Madhepura,madhepura,10,10,BH,BIHAR
+232,207,bh_madhubani,Madhubani,madhubani,10,10,BH,BIHAR
+233,226,bh_munger,Munger,munger,10,10,BH,BIHAR
+234,216,bh_muzaffarpur,Muzaffarpur,muzaffarpur,10,10,BH,BIHAR
+235,229,bh_nalanda,Nalanda,nalanda,10,10,BH,BIHAR
+236,237,bh_nawada,Nawada,nawada,10,10,BH,BIHAR
+237,203,bh_pashchim_champaran,Pashchim Champaran,pashchim_champaran,10,10,BH,BIHAR
+238,230,bh_patna,Patna,patna,10,10,BH,BIHAR
+239,204,bh_purba_champaran,Purba Champaran,purba_champaran,10,10,BH,BIHAR
+240,211,bh_purnia,Purnia,purnia,10,10,BH,BIHAR
+241,234,bh_rohtas,Rohtas,rohtas,10,10,BH,BIHAR
+242,214,bh_saharsa,Saharsa,saharsa,10,10,BH,BIHAR
+243,221,bh_samastipur,Samastipur,samastipur,10,10,BH,BIHAR
+244,219,bh_saran,Saran,saran,10,10,BH,BIHAR
+245,228,bh_sheikhpura,Sheikhpura,sheikhpura,10,10,BH,BIHAR
+246,205,bh_sheohar,Sheohar,sheohar,10,10,BH,BIHAR
+247,206,bh_sitamarhi,Sitamarhi,sitamarhi,10,10,BH,BIHAR
+248,218,bh_siwan,Siwan,siwan,10,10,BH,BIHAR
+249,208,bh_supaul,Supaul,supaul,10,10,BH,BIHAR
+250,220,bh_vaishali,Vaishali,vaishali,10,10,BH,BIHAR
+566,235,bh_aurangabad,Aurangabad,aurangabad,10,10,BH,BIHAR
+251,244,sk_east_district,East District,east_district,11,11,SK,SIKKIM
+252,241,sk_north__district,North  District,north__district,11,11,SK,SIKKIM
+253,243,sk_south_district,South District,south_district,11,11,SK,SIKKIM
+254,242,sk_west_district,West District,west_district,11,11,SK,SIKKIM
+255,260,ar_anjaw,Anjaw,anjaw,12,12,AR,ARUNACHAL PRADESH
+256,253,ar_changlang,Changlang,changlang,12,12,AR,ARUNACHAL PRADESH
+257,247,ar_east_kameng,East Kameng,east_kameng,12,12,AR,ARUNACHAL PRADESH
+258,251,ar_east_siang,East Siang,east_siang,12,12,AR,ARUNACHAL PRADESH
+259,778,ar_kamle,Kamle,kamle,12,12,AR,ARUNACHAL PRADESH
+260,763,ar_kra_daadi,Kra Daadi,kra_daadi,12,12,AR,ARUNACHAL PRADESH
+261,256,ar_kurung_kumey,Kurung Kumey,kurung_kumey,12,12,AR,ARUNACHAL PRADESH
+262,784,ar_lepa_rada,Lepa Rada,lepa_rada,12,12,AR,ARUNACHAL PRADESH
+263,259,ar_lohit,Lohit,lohit,12,12,AR,ARUNACHAL PRADESH
+264,761,ar_longding,Longding,longding,12,12,AR,ARUNACHAL PRADESH
+265,258,ar_lower_dibang_valley,Lower Dibang Valley,lower_dibang_valley,12,12,AR,ARUNACHAL PRADESH
+266,779,ar_lower_siang,Lower Siang,lower_siang,12,12,AR,ARUNACHAL PRADESH
+267,255,ar_lower_subansiri,Lower Subansiri,lower_subansiri,12,12,AR,ARUNACHAL PRADESH
+268,762,ar_namsai,Namsai,namsai,12,12,AR,ARUNACHAL PRADESH
+269,783,ar_pakke_kessang,Pakke Kessang,pakke_kessang,12,12,AR,ARUNACHAL PRADESH
+270,248,ar_papum_pare,Papum Pare,papum_pare,12,12,AR,ARUNACHAL PRADESH
+271,785,ar_shi_yomi,Shi Yomi,shi_yomi,12,12,AR,ARUNACHAL PRADESH
+272,764,ar_siang,Siang,siang,12,12,AR,ARUNACHAL PRADESH
+273,245,ar_tawang,Tawang,tawang,12,12,AR,ARUNACHAL PRADESH
+274,254,ar_tirap,Tirap,tirap,12,12,AR,ARUNACHAL PRADESH
+275,257,ar_upper_dibang_valley,Upper Dibang Valley,upper_dibang_valley,12,12,AR,ARUNACHAL PRADESH
+276,252,ar_upper_siang,Upper Siang,upper_siang,12,12,AR,ARUNACHAL PRADESH
+277,249,ar_upper_subansiri,Upper Subansiri,upper_subansiri,12,12,AR,ARUNACHAL PRADESH
+278,246,ar_west_kameng,West Kameng,west_kameng,12,12,AR,ARUNACHAL PRADESH
+279,250,ar_west_siang,West Siang,west_siang,12,12,AR,ARUNACHAL PRADESH
+280,265,nl_dimapur,Dimapur,dimapur,13,13,NL,NAGALAND
+281,269,nl_kiphire,Kiphire,kiphire,13,13,NL,NAGALAND
+282,270,nl_kohima,Kohima,kohima,13,13,NL,NAGALAND
+283,268,nl_longleng,Longleng,longleng,13,13,NL,NAGALAND
+284,262,nl_mokokchung,Mokokchung,mokokchung,13,13,NL,NAGALAND
+285,261,nl_mon,Mon,mon,13,13,NL,NAGALAND
+286,792,nl_noklak,Noklak,noklak,13,13,NL,NAGALAND
+287,271,nl_peren,Peren,peren,13,13,NL,NAGALAND
+288,266,nl_phek,Phek,phek,13,13,NL,NAGALAND
+289,267,nl_tuensang,Tuensang,tuensang,13,13,NL,NAGALAND
+290,264,nl_wokha,Wokha,wokha,13,13,NL,NAGALAND
+291,263,nl_zunheboto,Zunheboto,zunheboto,13,13,NL,NAGALAND
+292,275,mn_bishnupur,Bishnupur,bishnupur,14,14,MN,MANIPUR
+293,280,mn_chandel,Chandel,chandel,14,14,MN,MANIPUR
+294,274,mn_churachandpur,Churachandpur,churachandpur,14,14,MN,MANIPUR
+295,278,mn_imphal_east,Imphal East,imphal_east,14,14,MN,MANIPUR
+296,277,mn_imphal_west,Imphal West,imphal_west,14,14,MN,MANIPUR
+297,766,mn_jiribam,Jiribam,jiribam,14,14,MN,MANIPUR
+298,768,mn_kakching,Kakching,kakching,14,14,MN,MANIPUR
+299,770,mn_kamjong,Kamjong,kamjong,14,14,MN,MANIPUR
+300,767,mn_kangpokpi,Kangpokpi,kangpokpi,14,14,MN,MANIPUR
+301,771,mn_noney,Noney,noney,14,14,MN,MANIPUR
+302,772,mn_pherzawl,Pherzawl,pherzawl,14,14,MN,MANIPUR
+303,272,mn_senapati,Senapati,senapati,14,14,MN,MANIPUR
+304,273,mn_tamenglong,Tamenglong,tamenglong,14,14,MN,MANIPUR
+305,769,mn_tengnoupal,Tengnoupal,tengnoupal,14,14,MN,MANIPUR
+306,276,mn_thoubal,Thoubal,thoubal,14,14,MN,MANIPUR
+307,279,mn_ukhrul,Ukhrul,ukhrul,14,14,MN,MANIPUR
+308,283,mz_aizawl,Aizawl,aizawl,15,15,MZ,MIZORAM
+309,284,mz_champhai,Champhai,champhai,15,15,MZ,MIZORAM
+310,793,mz_hnahthial,Hnahthial,hnahthial,15,15,MZ,MIZORAM
+311,795,mz_khawzawl,Khawzawl,khawzawl,15,15,MZ,MIZORAM
+312,282,mz_kolasib,Kolasib,kolasib,15,15,MZ,MIZORAM
+313,287,mz_lawngtlai,Lawngtlai,lawngtlai,15,15,MZ,MIZORAM
+314,286,mz_lunglei,Lunglei,lunglei,15,15,MZ,MIZORAM
+315,281,mz_mamit,Mamit,mamit,15,15,MZ,MIZORAM
+316,288,mz_saiha,Saiha,saiha,15,15,MZ,MIZORAM
+317,794,mz_saitual,Saitual,saitual,15,15,MZ,MIZORAM
+318,285,mz_serchhip,Serchhip,serchhip,15,15,MZ,MIZORAM
+319,291,tr_dhalai,Dhalai,dhalai,16,16,TR,TRIPURA
+320,709,tr_gomati,Gomati,gomati,16,16,TR,TRIPURA
+321,708,tr_khowai,Khowai,khowai,16,16,TR,TRIPURA
+322,292,tr_north_tripura,North Tripura,north_tripura,16,16,TR,TRIPURA
+323,707,tr_sipahijala,Sipahijala,sipahijala,16,16,TR,TRIPURA
+324,290,tr_south_tripura,South Tripura,south_tripura,16,16,TR,TRIPURA
+325,710,tr_unokoti,Unokoti,unokoti,16,16,TR,TRIPURA
+326,289,tr_west_tripura,West Tripura,west_tripura,16,16,TR,TRIPURA
+327,294,mg_east_garo_hills,East Garo Hills,east_garo_hills,17,17,MG,MEGHALAYA
+328,714,mg_east_jaintia_hills,East Jaintia Hills,east_jaintia_hills,17,17,MG,MEGHALAYA
+329,298,mg_east_khasi_hills,East Khasi Hills,east_khasi_hills,17,17,MG,MEGHALAYA
+330,800,mg_eastern_west_khasi_hills,Eastern West Khasi Hills,eastern_west_khasi_hills,17,17,MG,MEGHALAYA
+331,712,mg_north_garo_hills,North Garo Hills,north_garo_hills,17,17,MG,MEGHALAYA
+332,297,mg_ribhoi,Ribhoi,ribhoi,17,17,MG,MEGHALAYA
+333,295,mg_south_garo_hills,South Garo Hills,south_garo_hills,17,17,MG,MEGHALAYA
+334,711,mg_south_west_garo_hills,South West Garo Hills,south_west_garo_hills,17,17,MG,MEGHALAYA
+335,713,mg_south_west_khasi_hills,South West Khasi Hills,south_west_khasi_hills,17,17,MG,MEGHALAYA
+336,293,mg_west_garo_hills,West Garo Hills,west_garo_hills,17,17,MG,MEGHALAYA
+337,299,mg_west_jaintia_hills,West Jaintia Hills,west_jaintia_hills,17,17,MG,MEGHALAYA
+338,296,mg_west_khasi_hills,West Khasi Hills,west_khasi_hills,17,17,MG,MEGHALAYA
+339,799,as_bajali,Bajali,bajali,18,18,AS,ASSAM
+340,324,as_baksa,Baksa,baksa,18,18,AS,ASSAM
+341,303,as_barpeta,Barpeta,barpeta,18,18,AS,ASSAM
+342,756,as_biswanath,Biswanath,biswanath,18,18,AS,ASSAM
+343,319,as_bongaigaon,Bongaigaon,bongaigaon,18,18,AS,ASSAM
+344,316,as_cachar,Cachar,cachar,18,18,AS,ASSAM
+345,755,as_charaideo,Charaideo,charaideo,18,18,AS,ASSAM
+346,320,as_chirang,Chirang,chirang,18,18,AS,ASSAM
+347,325,as_darrang,Darrang,darrang,18,18,AS,ASSAM
+348,308,as_dhemaji,Dhemaji,dhemaji,18,18,AS,ASSAM
+349,301,as_dhubri,Dhubri,dhubri,18,18,AS,ASSAM
+350,310,as_dibrugarh,Dibrugarh,dibrugarh,18,18,AS,ASSAM
+351,315,as_dima_hasao,Dima Hasao,dima_hasao,18,18,AS,ASSAM
+352,302,as_goalpara,Goalpara,goalpara,18,18,AS,ASSAM
+353,313,as_golaghat,Golaghat,golaghat,18,18,AS,ASSAM
+354,318,as_hailakandi,Hailakandi,hailakandi,18,18,AS,ASSAM
+355,757,as_hojai,Hojai,hojai,18,18,AS,ASSAM
+356,312,as_jorhat,Jorhat,jorhat,18,18,AS,ASSAM
+357,321,as_kamrup,Kamrup,kamrup,18,18,AS,ASSAM
+358,322,as_kamrup_metropolitan,Kamrup Metropolitan,kamrup_metropolitan,18,18,AS,ASSAM
+359,314,as_karbi_anglong,Karbi Anglong,karbi_anglong,18,18,AS,ASSAM
+360,317,as_karimganj,Karimganj,karimganj,18,18,AS,ASSAM
+361,300,as_kokrajhar,Kokrajhar,kokrajhar,18,18,AS,ASSAM
+362,307,as_lakhimpur,Lakhimpur,lakhimpur,18,18,AS,ASSAM
+363,760,as_majuli,Majuli,majuli,18,18,AS,ASSAM
+364,304,as_morigaon,Morigaon,morigaon,18,18,AS,ASSAM
+365,305,as_nagaon,Nagaon,nagaon,18,18,AS,ASSAM
+366,323,as_nalbari,Nalbari,nalbari,18,18,AS,ASSAM
+367,311,as_sivasagar,Sivasagar,sivasagar,18,18,AS,ASSAM
+368,306,as_sonitpur,Sonitpur,sonitpur,18,18,AS,ASSAM
+369,758,as_south_salmara_mancachar,South Salmara Mancachar,south_salmara_mancachar,18,18,AS,ASSAM
+370,309,as_tinsukia,Tinsukia,tinsukia,18,18,AS,ASSAM
+371,326,as_udalguri,Udalguri,udalguri,18,18,AS,ASSAM
+372,759,as_west_karbi_anglong,West Karbi Anglong,west_karbi_anglong,18,18,AS,ASSAM
+373,774,wb_alipurduar,Alipurduar,alipurduar,19,19,WB,WEST BENGAL
+374,339,wb_bankura,Bankura,bankura,19,19,WB,WEST BENGAL
+375,334,wb_birbhum,Birbhum,birbhum,19,19,WB,WEST BENGAL
+376,329,wb_cooch_behar,Cooch Behar,cooch_behar,19,19,WB,WEST BENGAL
+377,331,wb_dakshin_dinajpur,Dakshin Dinajpur,dakshin_dinajpur,19,19,WB,WEST BENGAL
+378,327,wb_darjiling,Darjiling,darjiling,19,19,WB,WEST BENGAL
+379,338,wb_hooghly,Hooghly,hooghly,19,19,WB,WEST BENGAL
+380,341,wb_howrah,Howrah,howrah,19,19,WB,WEST BENGAL
+381,328,wb_jalpaiguri,Jalpaiguri,jalpaiguri,19,19,WB,WEST BENGAL
+382,776,wb_jhargram,Jhargram,jhargram,19,19,WB,WEST BENGAL
+383,775,wb_kalimpong,Kalimpong,kalimpong,19,19,WB,WEST BENGAL
+384,342,wb_kolkata,Kolkata,kolkata,19,19,WB,WEST BENGAL
+385,332,wb_maldah,Maldah,maldah,19,19,WB,WEST BENGAL
+386,344,wb_medinipur_west,Medinipur West,medinipur_west,19,19,WB,WEST BENGAL
+387,333,wb_murshidabad,Murshidabad,murshidabad,19,19,WB,WEST BENGAL
+388,336,wb_nadia,Nadia,nadia,19,19,WB,WEST BENGAL
+389,337,wb_north_twenty_four_pargan*,North Twenty Four Pargan*,north_twenty_four_pargan*,19,19,WB,WEST BENGAL
+390,777,wb_paschim_bardhaman,Paschim Bardhaman,paschim_bardhaman,19,19,WB,WEST BENGAL
+391,335,wb_purba_bardhaman,Purba Bardhaman,purba_bardhaman,19,19,WB,WEST BENGAL
+392,345,wb_purba_medinipur,Purba Medinipur,purba_medinipur,19,19,WB,WEST BENGAL
+393,340,wb_puruliya,Puruliya,puruliya,19,19,WB,WEST BENGAL
+394,343,wb_south_twenty_four_pargana,South Twenty Four Pargana,south_twenty_four_pargana,19,19,WB,WEST BENGAL
+395,330,wb_uttar_dinajpur,Uttar Dinajpur,uttar_dinajpur,19,19,WB,WEST BENGAL
+396,355,jh_bokaro,Bokaro,bokaro,20,20,JH,JHARKHAND
+397,347,jh_chatra,Chatra,chatra,20,20,JH,JHARKHAND
+398,350,jh_deoghar,Deoghar,deoghar,20,20,JH,JHARKHAND
+399,354,jh_dhanbad,Dhanbad,dhanbad,20,20,JH,JHARKHAND
+400,362,jh_dumka,Dumka,dumka,20,20,JH,JHARKHAND
+401,346,jh_garhwa,Garhwa,garhwa,20,20,JH,JHARKHAND
+402,349,jh_giridih,Giridih,giridih,20,20,JH,JHARKHAND
+403,351,jh_godda,Godda,godda,20,20,JH,JHARKHAND
+404,366,jh_gumla,Gumla,gumla,20,20,JH,JHARKHAND
+405,360,jh_hazaribagh,Hazaribagh,hazaribagh,20,20,JH,JHARKHAND
+406,363,jh_jamtara,Jamtara,jamtara,20,20,JH,JHARKHAND
+407,365,jh_khunti,Khunti,khunti,20,20,JH,JHARKHAND
+408,348,jh_kodarma,Kodarma,kodarma,20,20,JH,JHARKHAND
+409,359,jh_latehar,Latehar,latehar,20,20,JH,JHARKHAND
+410,356,jh_lohardaga,Lohardaga,lohardaga,20,20,JH,JHARKHAND
+411,353,jh_pakur,Pakur,pakur,20,20,JH,JHARKHAND
+412,358,jh_palamu,Palamu,palamu,20,20,JH,JHARKHAND
+413,368,jh_pashchimi_singhbhum,Pashchimi Singhbhum,pashchimi_singhbhum,20,20,JH,JHARKHAND
+414,357,jh_purbi_singhbhum,Purbi Singhbhum,purbi_singhbhum,20,20,JH,JHARKHAND
+415,361,jh_ramgarh,Ramgarh,ramgarh,20,20,JH,JHARKHAND
+416,364,jh_ranchi,Ranchi,ranchi,20,20,JH,JHARKHAND
+417,352,jh_sahibganj,Sahibganj,sahibganj,20,20,JH,JHARKHAND
+418,369,jh_saraikela-kharsawan,Saraikela-kharsawan,saraikela-kharsawan,20,20,JH,JHARKHAND
+419,367,jh_simdega,Simdega,simdega,20,20,JH,JHARKHAND
+420,384,od_anugul,Anugul,anugul,21,21,OD,ODISHA
+421,393,od_balangir,Balangir,balangir,21,21,OD,ODISHA
+422,377,od_baleshwar,Baleshwar,baleshwar,21,21,OD,ODISHA
+423,370,od_bargarh,Bargarh,bargarh,21,21,OD,ODISHA
+424,391,od_baudh,Baudh,baudh,21,21,OD,ODISHA
+425,378,od_bhadrak,Bhadrak,bhadrak,21,21,OD,ODISHA
+426,381,od_cuttack,Cuttack,cuttack,21,21,OD,ODISHA
+427,373,od_deogarh,Deogarh,deogarh,21,21,OD,ODISHA
+428,383,od_dhenkanal,Dhenkanal,dhenkanal,21,21,OD,ODISHA
+429,389,od_gajapati,Gajapati,gajapati,21,21,OD,ODISHA
+430,388,od_ganjam,Ganjam,ganjam,21,21,OD,ODISHA
+431,380,od_jagatsinghapur,Jagatsinghapur,jagatsinghapur,21,21,OD,ODISHA
+432,382,od_jajapur,Jajapur,jajapur,21,21,OD,ODISHA
+433,371,od_jharsuguda,Jharsuguda,jharsuguda,21,21,OD,ODISHA
+434,395,od_kalahandi,Kalahandi,kalahandi,21,21,OD,ODISHA
+435,390,od_kandhamal,Kandhamal,kandhamal,21,21,OD,ODISHA
+436,379,od_kendrapara,Kendrapara,kendrapara,21,21,OD,ODISHA
+437,375,od_kendujhar,Kendujhar,kendujhar,21,21,OD,ODISHA
+438,386,od_khordha,Khordha,khordha,21,21,OD,ODISHA
+439,398,od_koraput,Koraput,koraput,21,21,OD,ODISHA
+440,399,od_malkangiri,Malkangiri,malkangiri,21,21,OD,ODISHA
+441,376,od_mayurbhanj,Mayurbhanj,mayurbhanj,21,21,OD,ODISHA
+442,397,od_nabarangapur,Nabarangapur,nabarangapur,21,21,OD,ODISHA
+443,385,od_nayagarh,Nayagarh,nayagarh,21,21,OD,ODISHA
+444,394,od_nuapada,Nuapada,nuapada,21,21,OD,ODISHA
+445,387,od_puri,Puri,puri,21,21,OD,ODISHA
+446,396,od_rayagada,Rayagada,rayagada,21,21,OD,ODISHA
+447,372,od_sambalpur,Sambalpur,sambalpur,21,21,OD,ODISHA
+448,392,od_sonepur,Sonepur,sonepur,21,21,OD,ODISHA
+449,374,od_sundargarh,Sundargarh,sundargarh,21,21,OD,ODISHA
+450,719,cg_balod,Balod,balod,22,22,CG,CHHATTISGARH
+451,721,cg_baloda_bazar,Baloda Bazar,baloda_bazar,22,22,CG,CHHATTISGARH
+452,716,cg_balrampur,Balrampur,balrampur,22,22,CG,CHHATTISGARH
+453,718,cg_bametara,Bametara,bametara,22,22,CG,CHHATTISGARH
+454,414,cg_bastar,Bastar,bastar,22,22,CG,CHHATTISGARH
+455,417,cg_bijapur,Bijapur,bijapur,22,22,CG,CHHATTISGARH
+456,406,cg_bilaspur,Bilaspur,bilaspur,22,22,CG,CHHATTISGARH
+457,416,cg_dakshin_bastar_dantewada,Dakshin Bastar Dantewada,dakshin_bastar_dantewada,22,22,CG,CHHATTISGARH
+458,412,cg_dhamtari,Dhamtari,dhamtari,22,22,CG,CHHATTISGARH
+459,409,cg_durg,Durg,durg,22,22,CG,CHHATTISGARH
+460,720,cg_gariaband,Gariaband,gariaband,22,22,CG,CHHATTISGARH
+461,791,cg_gaurela-pendra-marwahi,Gaurela-Pendra-Marwahi,gaurela-pendra-marwahi,22,22,CG,CHHATTISGARH
+462,405,cg_janjgir_-_champa,Janjgir - Champa,janjgir_-_champa,22,22,CG,CHHATTISGARH
+463,402,cg_jashpur,Jashpur,jashpur,22,22,CG,CHHATTISGARH
+464,407,cg_kabeerdham,Kabeerdham,kabeerdham,22,22,CG,CHHATTISGARH
+465,722,cg_kondagaon,Kondagaon,kondagaon,22,22,CG,CHHATTISGARH
+466,404,cg_korba,Korba,korba,22,22,CG,CHHATTISGARH
+467,400,cg_koriya,Koriya,koriya,22,22,CG,CHHATTISGARH
+468,411,cg_mahasamund,Mahasamund,mahasamund,22,22,CG,CHHATTISGARH
+469,717,cg_mungeli,Mungeli,mungeli,22,22,CG,CHHATTISGARH
+470,415,cg_narayanpur,Narayanpur,narayanpur,22,22,CG,CHHATTISGARH
+472,410,cg_raipur,Raipur,raipur,22,22,CG,CHHATTISGARH
+473,408,cg_rajnandgaon,Rajnandgaon,rajnandgaon,22,22,CG,CHHATTISGARH
+474,723,cg_sukma,Sukma,sukma,22,22,CG,CHHATTISGARH
+475,715,cg_surajpur,Surajpur,surajpur,22,22,CG,CHHATTISGARH
+476,401,cg_surguja,Surguja,surguja,22,22,CG,CHHATTISGARH
+477,413,cg_uttar_bastar_kanker,Uttar Bastar Kanker,uttar_bastar_kanker,22,22,CG,CHHATTISGARH
+589,403,cg_raigarh,Raigarh,raigarh,22,22,CG,CHHATTISGARH
+478,724,mp_agar_malwa,Agar Malwa,agar_malwa,23,23,MP,MADHYA PRADESH
+479,465,mp_alirajpur,Alirajpur,alirajpur,23,23,MP,MADHYA PRADESH
+480,461,mp_anuppur,Anuppur,anuppur,23,23,MP,MADHYA PRADESH
+481,459,mp_ashoknagar,Ashoknagar,ashoknagar,23,23,MP,MADHYA PRADESH
+482,457,mp_balaghat,Balaghat,balaghat,23,23,MP,MADHYA PRADESH
+483,441,mp_barwani,Barwani,barwani,23,23,MP,MADHYA PRADESH
+484,447,mp_betul,Betul,betul,23,23,MP,MADHYA PRADESH
+485,420,mp_bhind,Bhind,bhind,23,23,MP,MADHYA PRADESH
+486,444,mp_bhopal,Bhopal,bhopal,23,23,MP,MADHYA PRADESH
+487,467,mp_burhanpur,Burhanpur,burhanpur,23,23,MP,MADHYA PRADESH
+488,425,mp_chhatarpur,Chhatarpur,chhatarpur,23,23,MP,MADHYA PRADESH
+489,455,mp_chhindwara,Chhindwara,chhindwara,23,23,MP,MADHYA PRADESH
+490,428,mp_damoh,Damoh,damoh,23,23,MP,MADHYA PRADESH
+491,422,mp_datia,Datia,datia,23,23,MP,MADHYA PRADESH
+492,437,mp_dewas,Dewas,dewas,23,23,MP,MADHYA PRADESH
+493,438,mp_dhar,Dhar,dhar,23,23,MP,MADHYA PRADESH
+494,453,mp_dindori,Dindori,dindori,23,23,MP,MADHYA PRADESH
+495,466,mp_east_nimar,East Nimar,east_nimar,23,23,MP,MADHYA PRADESH
+496,458,mp_guna,Guna,guna,23,23,MP,MADHYA PRADESH
+497,421,mp_gwalior,Gwalior,gwalior,23,23,MP,MADHYA PRADESH
+498,448,mp_harda,Harda,harda,23,23,MP,MADHYA PRADESH
+499,449,mp_hoshangabad,Hoshangabad,hoshangabad,23,23,MP,MADHYA PRADESH
+500,439,mp_indore,Indore,indore,23,23,MP,MADHYA PRADESH
+501,451,mp_jabalpur,Jabalpur,jabalpur,23,23,MP,MADHYA PRADESH
+502,464,mp_jhabua,Jhabua,jhabua,23,23,MP,MADHYA PRADESH
+503,450,mp_katni,Katni,katni,23,23,MP,MADHYA PRADESH
+504,454,mp_mandla,Mandla,mandla,23,23,MP,MADHYA PRADESH
+505,433,mp_mandsaur,Mandsaur,mandsaur,23,23,MP,MADHYA PRADESH
+506,419,mp_morena,Morena,morena,23,23,MP,MADHYA PRADESH
+507,452,mp_narsimhapur,Narsimhapur,narsimhapur,23,23,MP,MADHYA PRADESH
+508,432,mp_neemuch,Neemuch,neemuch,23,23,MP,MADHYA PRADESH
+509,782,mp_niwari,Niwari,niwari,23,23,MP,MADHYA PRADESH
+510,426,mp_panna,Panna,panna,23,23,MP,MADHYA PRADESH
+511,446,mp_raisen,Raisen,raisen,23,23,MP,MADHYA PRADESH
+512,442,mp_rajgarh,Rajgarh,rajgarh,23,23,MP,MADHYA PRADESH
+513,434,mp_ratlam,Ratlam,ratlam,23,23,MP,MADHYA PRADESH
+514,430,mp_rewa,Rewa,rewa,23,23,MP,MADHYA PRADESH
+515,427,mp_sagar,Sagar,sagar,23,23,MP,MADHYA PRADESH
+516,429,mp_satna,Satna,satna,23,23,MP,MADHYA PRADESH
+517,445,mp_sehore,Sehore,sehore,23,23,MP,MADHYA PRADESH
+518,456,mp_seoni,Seoni,seoni,23,23,MP,MADHYA PRADESH
+519,460,mp_shahdol,Shahdol,shahdol,23,23,MP,MADHYA PRADESH
+520,436,mp_shajapur,Shajapur,shajapur,23,23,MP,MADHYA PRADESH
+521,418,mp_sheopur,Sheopur,sheopur,23,23,MP,MADHYA PRADESH
+522,423,mp_shivpuri,Shivpuri,shivpuri,23,23,MP,MADHYA PRADESH
+523,462,mp_sidhi,Sidhi,sidhi,23,23,MP,MADHYA PRADESH
+524,463,mp_singrauli,Singrauli,singrauli,23,23,MP,MADHYA PRADESH
+525,424,mp_tikamgarh,Tikamgarh,tikamgarh,23,23,MP,MADHYA PRADESH
+526,435,mp_ujjain,Ujjain,ujjain,23,23,MP,MADHYA PRADESH
+527,431,mp_umaria,Umaria,umaria,23,23,MP,MADHYA PRADESH
+528,443,mp_vidisha,Vidisha,vidisha,23,23,MP,MADHYA PRADESH
+529,440,mp_west_nimar,West Nimar,west_nimar,23,23,MP,MADHYA PRADESH
+530,474,gj_ahmadabad,Ahmadabad,ahmadabad,24,24,GJ,GUJARAT
+531,480,gj_amreli,Amreli,amreli,24,24,GJ,GUJARAT
+532,482,gj_anand,Anand,anand,24,24,GJ,GUJARAT
+533,725,gj_aravalli,Aravalli,aravalli,24,24,GJ,GUJARAT
+534,469,gj_banas_kantha,Banas Kantha,banas_kantha,24,24,GJ,GUJARAT
+535,488,gj_bharuch,Bharuch,bharuch,24,24,GJ,GUJARAT
+536,481,gj_bhavnagar,Bhavnagar,bhavnagar,24,24,GJ,GUJARAT
+537,726,gj_botad,Botad,botad,24,24,GJ,GUJARAT
+538,731,gj_chota_udaipur,Chota Udaipur,chota_udaipur,24,24,GJ,GUJARAT
+539,728,gj_devbhumi_dwarka,Devbhumi Dwarka,devbhumi_dwarka,24,24,GJ,GUJARAT
+540,485,gj_dohad,Dohad,dohad,24,24,GJ,GUJARAT
+541,473,gj_gandhinagar,Gandhinagar,gandhinagar,24,24,GJ,GUJARAT
+542,729,gj_gir_somnath,Gir Somnath,gir_somnath,24,24,GJ,GUJARAT
+543,477,gj_jamnagar,Jamnagar,jamnagar,24,24,GJ,GUJARAT
+544,479,gj_junagadh,Junagadh,junagadh,24,24,GJ,GUJARAT
+545,468,gj_kachchh,Kachchh,kachchh,24,24,GJ,GUJARAT
+546,483,gj_kheda,Kheda,kheda,24,24,GJ,GUJARAT
+547,471,gj_mahesana,Mahesana,mahesana,24,24,GJ,GUJARAT
+548,730,gj_mahisagar,Mahisagar,mahisagar,24,24,GJ,GUJARAT
+549,727,gj_morbi,Morbi,morbi,24,24,GJ,GUJARAT
+550,487,gj_narmada,Narmada,narmada,24,24,GJ,GUJARAT
+551,490,gj_navsari,Navsari,navsari,24,24,GJ,GUJARAT
+552,484,gj_panch_mahals,Panch Mahals,panch_mahals,24,24,GJ,GUJARAT
+553,470,gj_patan,Patan,patan,24,24,GJ,GUJARAT
+554,478,gj_porbandar,Porbandar,porbandar,24,24,GJ,GUJARAT
+555,476,gj_rajkot,Rajkot,rajkot,24,24,GJ,GUJARAT
+556,472,gj_sabar_kantha,Sabar Kantha,sabar_kantha,24,24,GJ,GUJARAT
+557,492,gj_surat,Surat,surat,24,24,GJ,GUJARAT
+558,475,gj_surendranagar,Surendranagar,surendranagar,24,24,GJ,GUJARAT
+559,493,gj_tapi,Tapi,tapi,24,24,GJ,GUJARAT
+560,489,gj_the_dangs,The Dangs,the_dangs,24,24,GJ,GUJARAT
+561,486,gj_vadodara,Vadodara,vadodara,24,24,GJ,GUJARAT
+562,491,gj_valsad,Valsad,valsad,24,24,GJ,GUJARAT
+563,522,mh_ahmadnagar,Ahmadnagar,ahmadnagar,27,25,MH,MAHARASHTRA
+564,501,mh_akola,Akola,akola,27,25,MH,MAHARASHTRA
+565,503,mh_amravati,Amravati,amravati,27,25,MH,MAHARASHTRA
+566,515,mh_aurangabad,Aurangabad,aurangabad,27,25,MH,MAHARASHTRA
+567,506,mh_bhandara,Bhandara,bhandara,27,25,MH,MAHARASHTRA
+568,523,mh_bid,Bid,bid,27,25,MH,MAHARASHTRA
+569,500,mh_buldana,Buldana,buldana,27,25,MH,MAHARASHTRA
+570,509,mh_chandrapur,Chandrapur,chandrapur,27,25,MH,MAHARASHTRA
+571,498,mh_dhule,Dhule,dhule,27,25,MH,MAHARASHTRA
+572,508,mh_gadchiroli,Gadchiroli,gadchiroli,27,25,MH,MAHARASHTRA
+573,507,mh_gondiya,Gondiya,gondiya,27,25,MH,MAHARASHTRA
+574,512,mh_hingoli,Hingoli,hingoli,27,25,MH,MAHARASHTRA
+575,499,mh_jalgaon,Jalgaon,jalgaon,27,25,MH,MAHARASHTRA
+576,514,mh_jalna,Jalna,jalna,27,25,MH,MAHARASHTRA
+577,530,mh_kolhapur,Kolhapur,kolhapur,27,25,MH,MAHARASHTRA
+578,524,mh_latur,Latur,latur,27,25,MH,MAHARASHTRA
+579,519,mh_mumbai,Mumbai,mumbai,27,25,MH,MAHARASHTRA
+580,518,mh_mumbai_suburban,Mumbai Suburban,mumbai_suburban,27,25,MH,MAHARASHTRA
+581,505,mh_nagpur,Nagpur,nagpur,27,25,MH,MAHARASHTRA
+582,511,mh_nanded,Nanded,nanded,27,25,MH,MAHARASHTRA
+583,497,mh_nandurbar,Nandurbar,nandurbar,27,25,MH,MAHARASHTRA
+584,516,mh_nashik,Nashik,nashik,27,25,MH,MAHARASHTRA
+585,525,mh_osmanabad,Osmanabad,osmanabad,27,25,MH,MAHARASHTRA
+586,732,mh_palghar,Palghar,palghar,27,25,MH,MAHARASHTRA
+587,513,mh_parbhani,Parbhani,parbhani,27,25,MH,MAHARASHTRA
+588,521,mh_pune,Pune,pune,27,25,MH,MAHARASHTRA
+589,520,mh_raigarh,Raigarh,raigarh,27,25,MH,MAHARASHTRA
+590,528,mh_ratnagiri,Ratnagiri,ratnagiri,27,25,MH,MAHARASHTRA
+591,531,mh_sangli,Sangli,sangli,27,25,MH,MAHARASHTRA
+592,527,mh_satara,Satara,satara,27,25,MH,MAHARASHTRA
+593,529,mh_sindhudurg,Sindhudurg,sindhudurg,27,25,MH,MAHARASHTRA
+594,526,mh_solapur,Solapur,solapur,27,25,MH,MAHARASHTRA
+595,517,mh_thane,Thane,thane,27,25,MH,MAHARASHTRA
+596,504,mh_wardha,Wardha,wardha,27,25,MH,MAHARASHTRA
+597,502,mh_washim,Washim,washim,27,25,MH,MAHARASHTRA
+598,510,mh_yavatmal,Yavatmal,yavatmal,27,25,MH,MAHARASHTRA
+599,556,ka_bagalkote,Bagalkote,bagalkote,29,26,KA,KARNATAKA
+600,565,ka_ballari,Ballari,ballari,29,26,KA,KARNATAKA
+601,572,ka_bangalore,Bangalore,bangalore,29,26,KA,KARNATAKA
+602,555,ka_belagavi,Belagavi,belagavi,29,26,KA,KARNATAKA
+603,583,ka_bengaluru_rural,Bengaluru Rural,bengaluru_rural,29,26,KA,KARNATAKA
+604,558,ka_bidar,Bidar,bidar,29,26,KA,KARNATAKA
+605,578,ka_chamarajanagara,Chamarajanagara,chamarajanagara,29,26,KA,KARNATAKA
+606,582,ka_chikkaballapura,Chikkaballapura,chikkaballapura,29,26,KA,KARNATAKA
+607,570,ka_chikkamagaluru,Chikkamagaluru,chikkamagaluru,29,26,KA,KARNATAKA
+608,566,ka_chitradurga,Chitradurga,chitradurga,29,26,KA,KARNATAKA
+609,575,ka_dakshina_kannada,Dakshina Kannada,dakshina_kannada,29,26,KA,KARNATAKA
+610,567,ka_davanagere,Davanagere,davanagere,29,26,KA,KARNATAKA
+611,562,ka_dharwad,Dharwad,dharwad,29,26,KA,KARNATAKA
+612,561,ka_gadag,Gadag,gadag,29,26,KA,KARNATAKA
+613,574,ka_hassan,Hassan,hassan,29,26,KA,KARNATAKA
+614,564,ka_haveri,Haveri,haveri,29,26,KA,KARNATAKA
+615,579,ka_kalaburagi,Kalaburagi,kalaburagi,29,26,KA,KARNATAKA
+616,576,ka_kodagu,Kodagu,kodagu,29,26,KA,KARNATAKA
+617,581,ka_kolar,Kolar,kolar,29,26,KA,KARNATAKA
+618,560,ka_koppal,Koppal,koppal,29,26,KA,KARNATAKA
+619,573,ka_mandya,Mandya,mandya,29,26,KA,KARNATAKA
+620,577,ka_mysuru,Mysuru,mysuru,29,26,KA,KARNATAKA
+621,559,ka_raichur,Raichur,raichur,29,26,KA,KARNATAKA
+622,584,ka_ramanagara,Ramanagara,ramanagara,29,26,KA,KARNATAKA
+623,568,ka_shivamogga,Shivamogga,shivamogga,29,26,KA,KARNATAKA
+624,571,ka_tumakuru,Tumakuru,tumakuru,29,26,KA,KARNATAKA
+625,569,ka_udupi,Udupi,udupi,29,26,KA,KARNATAKA
+626,563,ka_uttara_kannada,Uttara Kannada,uttara_kannada,29,26,KA,KARNATAKA
+627,798,ka_vijayanagar,Vijayanagar,vijayanagar,29,26,KA,KARNATAKA
+628,557,ka_vijayapura,Vijayapura,vijayapura,29,26,KA,KARNATAKA
+629,580,ka_yadgir,Yadgir,yadgir,29,26,KA,KARNATAKA
+630,585,ga_north_goa,North Goa,north_goa,30,27,GA,GOA
+631,586,ga_south_goa,South Goa,south_goa,30,27,GA,GOA
+632,587,ld_lakshadweep,Lakshadweep,lakshadweep,31,28,LD,LAKSHADWEEP
+633,598,kl_alappuzha,Alappuzha,alappuzha,32,29,KL,KERALA
+634,595,kl_ernakulam,Ernakulam,ernakulam,32,29,KL,KERALA
+635,596,kl_idukki,Idukki,idukki,32,29,KL,KERALA
+636,589,kl_kannur,Kannur,kannur,32,29,KL,KERALA
+637,588,kl_kasaragod,Kasaragod,kasaragod,32,29,KL,KERALA
+638,600,kl_kollam,Kollam,kollam,32,29,KL,KERALA
+639,597,kl_kottayam,Kottayam,kottayam,32,29,KL,KERALA
+640,591,kl_kozhikode,Kozhikode,kozhikode,32,29,KL,KERALA
+641,592,kl_malappuram,Malappuram,malappuram,32,29,KL,KERALA
+642,593,kl_palakkad,Palakkad,palakkad,32,29,KL,KERALA
+643,599,kl_pathanamthitta,Pathanamthitta,pathanamthitta,32,29,KL,KERALA
+644,601,kl_thiruvananthapuram,Thiruvananthapuram,thiruvananthapuram,32,29,KL,KERALA
+645,594,kl_thrissur,Thrissur,thrissur,32,29,KL,KERALA
+646,590,kl_wayanad,Wayanad,wayanad,32,29,KL,KERALA
+647,616,tn_ariyalur,Ariyalur,ariyalur,33,30,TN,TAMIL NADU
+648,787,tn_chengalpattu,Chengalpattu,chengalpattu,33,30,TN,TAMIL NADU
+649,603,tn_chennai,Chennai,chennai,33,30,TN,TAMIL NADU
+650,632,tn_coimbatore,Coimbatore,coimbatore,33,30,TN,TAMIL NADU
+651,617,tn_cuddalore,Cuddalore,cuddalore,33,30,TN,TAMIL NADU
+652,630,tn_dharmapuri,Dharmapuri,dharmapuri,33,30,TN,TAMIL NADU
+653,612,tn_dindigul,Dindigul,dindigul,33,30,TN,TAMIL NADU
+654,610,tn_erode,Erode,erode,33,30,TN,TAMIL NADU
+655,604,tn_kanchipuram,KAnchipuram,kanchipuram,33,30,TN,TAMIL NADU
+656,789,tn_kallakurichchi,Kallakurichchi,kallakurichchi,33,30,TN,TAMIL NADU
+657,629,tn_kanniyakumari,Kanniyakumari,kanniyakumari,33,30,TN,TAMIL NADU
+658,613,tn_karur,Karur,karur,33,30,TN,TAMIL NADU
+659,631,tn_krishnagiri,Krishnagiri,krishnagiri,33,30,TN,TAMIL NADU
+660,623,tn_madurai,Madurai,madurai,33,30,TN,TAMIL NADU
+661,796,tn_mayiladuthurai,Mayiladuthurai,mayiladuthurai,33,30,TN,TAMIL NADU
+662,618,tn_nagapattinam,Nagapattinam,nagapattinam,33,30,TN,TAMIL NADU
+663,609,tn_namakkal,Namakkal,namakkal,33,30,TN,TAMIL NADU
+664,615,tn_perambalur,Perambalur,perambalur,33,30,TN,TAMIL NADU
+665,621,tn_pudukkottai,Pudukkottai,pudukkottai,33,30,TN,TAMIL NADU
+666,626,tn_ramanathapuram,Ramanathapuram,ramanathapuram,33,30,TN,TAMIL NADU
+667,786,tn_ranipet,Ranipet,ranipet,33,30,TN,TAMIL NADU
+668,608,tn_salem,Salem,salem,33,30,TN,TAMIL NADU
+669,622,tn_sivaganga,Sivaganga,sivaganga,33,30,TN,TAMIL NADU
+670,790,tn_tenkasi,Tenkasi,tenkasi,33,30,TN,TAMIL NADU
+671,620,tn_thanjavur,Thanjavur,thanjavur,33,30,TN,TAMIL NADU
+672,611,tn_the_nilgiris,The Nilgiris,the_nilgiris,33,30,TN,TAMIL NADU
+673,624,tn_theni,Theni,theni,33,30,TN,TAMIL NADU
+674,602,tn_thiruvallur,Thiruvallur,thiruvallur,33,30,TN,TAMIL NADU
+675,619,tn_thiruvarur,Thiruvarur,thiruvarur,33,30,TN,TAMIL NADU
+676,627,tn_thoothukkudi,Thoothukkudi,thoothukkudi,33,30,TN,TAMIL NADU
+677,614,tn_tiruchirappalli,Tiruchirappalli,tiruchirappalli,33,30,TN,TAMIL NADU
+678,628,tn_tirunelveli,Tirunelveli,tirunelveli,33,30,TN,TAMIL NADU
+679,788,tn_tiruppattur,Tiruppattur,tiruppattur,33,30,TN,TAMIL NADU
+680,633,tn_tiruppur,Tiruppur,tiruppur,33,30,TN,TAMIL NADU
+681,606,tn_tiruvannamalai,Tiruvannamalai,tiruvannamalai,33,30,TN,TAMIL NADU
+682,605,tn_vellore,Vellore,vellore,33,30,TN,TAMIL NADU
+683,607,tn_viluppuram,Viluppuram,viluppuram,33,30,TN,TAMIL NADU
+684,625,tn_virudhunagar,Virudhunagar,virudhunagar,33,30,TN,TAMIL NADU
+685,637,py_karaikal,Karaikal,karaikal,34,31,PY,PUDUCHERRY
+686,636,py_mahe,Mahe,mahe,34,31,PY,PUDUCHERRY
+687,635,py_puducherry,Puducherry,puducherry,34,31,PY,PUDUCHERRY
+688,634,py_yanam,Yanam,yanam,34,31,PY,PUDUCHERRY
+689,638,an_nicobars,Nicobars,nicobars,35,32,AN,ANDAMAN & NICOBAR
+690,639,an_north__&_middle_andaman,North  & Middle Andaman,north__&_middle_andaman,35,32,AN,ANDAMAN & NICOBAR
+691,640,an_south_andaman,South Andaman,south_andaman,35,32,AN,ANDAMAN & NICOBAR
+692,532,ts_adilabad,Adilabad,adilabad,36,33,TS,TELANGANA
+693,753,ts_bhadradri_kothagudem,Bhadradri Kothagudem,bhadradri_kothagudem,36,33,TS,TELANGANA
+694,536,ts_hyderabad,Hyderabad,hyderabad,36,33,TS,TELANGANA
+695,737,ts_jagitial,Jagitial,jagitial,36,33,TS,TELANGANA
+696,752,ts_jangoan,Jangoan,jangoan,36,33,TS,TELANGANA
+697,750,ts_jayashankar,Jayashankar,jayashankar,36,33,TS,TELANGANA
+698,744,ts_jogulamba_gadwal,Jogulamba Gadwal,jogulamba_gadwal,36,33,TS,TELANGANA
+699,736,ts_kamareddy,Kamareddy,kamareddy,36,33,TS,TELANGANA
+700,534,ts_karimnagar,Karimnagar,karimnagar,36,33,TS,TELANGANA
+701,541,ts_khammam,Khammam,khammam,36,33,TS,TELANGANA
+702,733,ts_kumuram_bheem_asifabad,Kumuram Bheem Asifabad,kumuram_bheem_asifabad,36,33,TS,TELANGANA
+703,751,ts_mahabubabad,Mahabubabad,mahabubabad,36,33,TS,TELANGANA
+704,538,ts_mahabubnagar,Mahabubnagar,mahabubnagar,36,33,TS,TELANGANA
+705,735,ts_mancherial,Mancherial,mancherial,36,33,TS,TELANGANA
+706,535,ts_medak,Medak,medak,36,33,TS,TELANGANA
+707,742,ts_medchal_malkajgiri,Medchal Malkajgiri,medchal_malkajgiri,36,33,TS,TELANGANA
+708,780,ts_mulugu,Mulugu,mulugu,36,33,TS,TELANGANA
+709,746,ts_nagarkurnool,Nagarkurnool,nagarkurnool,36,33,TS,TELANGANA
+710,539,ts_nalgonda,Nalgonda,nalgonda,36,33,TS,TELANGANA
+711,781,ts_narayanpet,Narayanpet,narayanpet,36,33,TS,TELANGANA
+712,734,ts_nirmal,Nirmal,nirmal,36,33,TS,TELANGANA
+713,533,ts_nizamabad,Nizamabad,nizamabad,36,33,TS,TELANGANA
+714,738,ts_peddapalli,Peddapalli,peddapalli,36,33,TS,TELANGANA
+715,739,ts_rajanna_sircilla,Rajanna Sircilla,rajanna_sircilla,36,33,TS,TELANGANA
+716,537,ts_ranga_reddy,Ranga Reddy,ranga_reddy,36,33,TS,TELANGANA
+717,740,ts_sangareddy,Sangareddy,sangareddy,36,33,TS,TELANGANA
+718,741,ts_siddipet,Siddipet,siddipet,36,33,TS,TELANGANA
+719,748,ts_suryapet,Suryapet,suryapet,36,33,TS,TELANGANA
+720,743,ts_vikarabad,Vikarabad,vikarabad,36,33,TS,TELANGANA
+721,745,ts_wanaparthy,Wanaparthy,wanaparthy,36,33,TS,TELANGANA
+722,749,ts_warangal_rural,Warangal Rural,warangal_rural,36,33,TS,TELANGANA
+723,540,ts_warangal_urban,Warangal Urban,warangal_urban,36,33,TS,TELANGANA
+724,747,ts_yadadri_bhuvanagiri,Yadadri Bhuvanagiri,yadadri_bhuvanagiri,36,33,TS,TELANGANA
+725,805,ap_alluri_sitharama_raju,Alluri Sitharama Raju,alluri_sitharama_raju,37,34,AP,ANDHRA PRADESH
+726,804,ap_anakapalli,Anakapalli,anakapalli,37,34,AP,ANDHRA PRADESH
+727,553,ap_anantpur,Anantpur,anantpur,37,34,AP,ANDHRA PRADESH
+728,813,ap_annamayya,Annamayya,annamayya,37,34,AP,ANDHRA PRADESH
+729,810,ap_bapatla,Bapatla,bapatla,37,34,AP,ANDHRA PRADESH
+730,554,ap_chittoor,Chittoor,chittoor,37,34,AP,ANDHRA PRADESH
+731,545,ap_east_godavari,East Godavari,east_godavari,37,34,AP,ANDHRA PRADESH
+732,808,ap_eluru,Eluru,eluru,37,34,AP,ANDHRA PRADESH
+733,548,ap_guntur,Guntur,guntur,37,34,AP,ANDHRA PRADESH
+734,806,ap_kakinada,Kakinada,kakinada,37,34,AP,ANDHRA PRADESH
+735,807,ap_konaseema,Konaseema,konaseema,37,34,AP,ANDHRA PRADESH
+736,547,ap_krishna,Krishna,krishna,37,34,AP,ANDHRA PRADESH
+737,552,ap_kurnool,Kurnool,kurnool,37,34,AP,ANDHRA PRADESH
+738,809,ap_ntr,NTR,ntr,37,34,AP,ANDHRA PRADESH
+739,815,ap_nandyal,Nandyal,nandyal,37,34,AP,ANDHRA PRADESH
+740,811,ap_palnadu,Palnadu,palnadu,37,34,AP,ANDHRA PRADESH
+741,803,ap_parvathipuram_manyam,Parvathipuram Manyam,parvathipuram_manyam,37,34,AP,ANDHRA PRADESH
+742,549,ap_prakasam,Prakasam,prakasam,37,34,AP,ANDHRA PRADESH
+743,550,ap_sri_potti_sriramulu_nell*,Sri Potti Sriramulu Nell*,sri_potti_sriramulu_nell*,37,34,AP,ANDHRA PRADESH
+744,814,ap_sri_sathya_sai,Sri Sathya sai,sri_sathya_sai,37,34,AP,ANDHRA PRADESH
+745,542,ap_srikakulam,Srikakulam,srikakulam,37,34,AP,ANDHRA PRADESH
+746,812,ap_tirupati,Tirupati,tirupati,37,34,AP,ANDHRA PRADESH
+747,544,ap_visakhapatnam,Visakhapatnam,visakhapatnam,37,34,AP,ANDHRA PRADESH
+748,543,ap_vizianagaram,Vizianagaram,vizianagaram,37,34,AP,ANDHRA PRADESH
+749,546,ap_west_godavari,West Godavari,west_godavari,37,34,AP,ANDHRA PRADESH
+750,551,ap_y_s_r_,Y.S.R.,y_s_r_,37,34,AP,ANDHRA PRADESH
+751,4,la_kargil,Kargil,kargil,38,35,LA,LADAKH
+752,3,la_leh,Leh,leh,38,35,LA,LADAKH
+753,496,dn_dadra_&_nagar_haveli,Dadra & Nagar Haveli,dadra_&_nagar_haveli,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU"
+754,495,dn_daman,Daman,daman,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU"
+755,494,dn_diu,Diu,diu,39,36,DN,"DADRA,NAGAR HAVELI,DAMAN & DIU"
